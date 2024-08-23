@@ -25,4 +25,5 @@ Compile the program using a C compiler such as GCC.
 Run the compiled executable.
 
 Choose options from the menu to perform desired operations.
+![image](https://github.com/user-attachments/assets/d61ea969-2950-436c-b651-2abb3e40998e)
 
